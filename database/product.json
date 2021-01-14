@@ -1,0 +1,40 @@
+{
+    "id": 5,
+    "list": [
+        {
+            "id": 1,
+            "name": "Ferro a Vapor",
+            "price": 149.0,
+            "description": "Ferro a Vapor Arduno Ultragliss, 1200 W - FUA1",
+            "quantity": 5
+        },
+        {
+            "id": 2,
+            "name": "Radio Portatil",
+            "price": 229.0,
+            "description": "Radio Portatil Motobras Dongao AM/FM 1000mW RMS - RM-PFT22AC",
+            "quantity": 16
+        },
+        {
+            "id": 3,
+            "name": "Esteira Eletronica",
+            "price": 1099.0,
+            "description": "Esteira Eletronica Dream Energia 1600, 5 Funcoes, Capacidade 110Kg",
+            "quantity": 4
+        },
+        {
+            "id": 4,
+            "name": "Geladeira",
+            "price": 2019.0,
+            "description": "Refrigerador / Geladeira Electrodux Cycle Defrost, 2 Portas, 260 Litros - DC35A",
+            "quantity": 6
+        },
+        {
+            "id": 5,
+            "name": "Poltrona",
+            "price": 999.0,
+            "description": "Poltrona Reclinavel Proboll Piramide",
+            "quantity": 10
+        }
+    ]
+}
